@@ -1,2 +1,3 @@
-# CHEME_5500_WC_6
-CHEME 5500 Weekly Challenge #6
+# CHEME 5500 Weekly Challenge #6
+## Mingjie Zhao
+This assignment is the same as Weekly Challenge 3
